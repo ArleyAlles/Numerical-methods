@@ -1,2 +1,2 @@
-# Regress-o-linear
+# Regressao-linear
 Regressão linear utilizando gradiente descendente
