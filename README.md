@@ -1,2 +1,2 @@
 # Regressao-linear
-Regressão linear utilizando gradiente descendente
+Regressão linear utilizando o método do gradiente descendente
