@@ -5,3 +5,4 @@
 #### O código Ajuste de curvas polinomial é realizado para um dado grau do polinômio, por meio da inversão direta da matriz de coeficientes
 #### O código Polinomio_Lagrange é referente a interpolação de dados de entrada genéricos por meio dos polinômios de Lagrange
 #### O código Otimizador_Newton é referente a otimização unidimensional de qualquer função 
+#### Os códigos Método de Euler e Heun são referentes a resolução de EDO's
