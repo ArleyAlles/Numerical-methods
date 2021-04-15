@@ -6,6 +6,7 @@
 * **EDO:** 
   * Método de Euler: https://github.com/Arley-Alles/Calculo_numerico/blob/master/EDO/M%C3%A9todo%20de%20Euler.ipynb 
   * Método de Heun: https://github.com/Arley-Alles/Calculo_numerico/blob/master/EDO/M%C3%A9todo%20de%20Heun.ipynb
+  * Método de RUnge Kutta 4ª ordem: https://github.com/Arley-Alles/Calculo_numerico/blob/master/EDO/Runge%20Kutta%204%C2%AA%20ordem.ipynb
 * **Integração:** 
   * Regras do trapézio: https://github.com/Arley-Alles/Calculo_numerico/blob/master/Integra%C3%A7%C3%A3o/Regra%20do%20Trap%C3%A9zio.ipynb
   * Simpson 1/3: https://github.com/Arley-Alles/Calculo_numerico/blob/master/Integra%C3%A7%C3%A3o/Simpson%201_3.ipynb
