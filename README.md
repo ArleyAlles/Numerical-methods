@@ -1,4 +1,4 @@
-# Numerical analysis
+# Numerical methods
 ## In this repository you will find some developed algorithms for solving several engineering problems. All methods were based on the book "Numerical Methods for Engineers"   
 
 ## Algorithms:
