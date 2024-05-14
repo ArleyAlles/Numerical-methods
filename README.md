@@ -1,5 +1,5 @@
 # Métodos numéricos
-## Neste repositório estão presentes alguns métodos númericos para resolução de diversos problemas de engenharia. No desenvolvimento destes códigos foi utilizado como referência o livro "Métodos Numéricos para Engenharia" - 7ª edição - Chapra & Canale
+## Neste repositório estão presentes alguns métodos númericos para resolução de diversos problemas de engenharia. No desenvolvimento destes códigos foi utilizado como referência o livro "Métodos Numéricos para Engenharia" - Chapra & Canale
 ## Códigos:
 
 * **Equações diferenciais ordinárias (EDO):** 
